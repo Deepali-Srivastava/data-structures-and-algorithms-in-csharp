@@ -25,7 +25,7 @@ namespace CircularQueueProject
                 Console.WriteLine("6.Quit");
                 Console.Write("Enter your choice : ");
                 choice = Convert.ToInt32(Console.ReadLine());
-                if (choice == 6)
+                if(choice == 6)
                     break;
 
                 switch (choice)
