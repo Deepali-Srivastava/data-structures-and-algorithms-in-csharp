@@ -1,6 +1,8 @@
-# Data Structures and Algorithms in C#
+# Data Structures and Algorithms (DSA) in C#
 
-This [“Data Structures and Algorithms in C#”](https://www.udemy.com/course/data-structures-and-algorithms-in-csharp/?couponCode=GITHUBSTUDENT ) repository is for the students of my online course available on Udemy. It contains the source code of all the programs used in the course.
+This  repository is for the students of book [Comprehensive Data Structures and Algorithms in C#](https://www.amazon.in/dp/B0G5X17RKL) and online courses available on CourseGalaxy. It contains the source code of all the programs used in the book and courses.
+
+[![comprehensive-data-structures-algorithms-csharp](https://github.com/user-attachments/assets/af226138-dbaa-4973-907e-cf5216211fe2)](https://www.amazon.in/dp/B0G5X17RKL)
 
 ### About the Course
  * Thoroughly detailed course with complete working programs
