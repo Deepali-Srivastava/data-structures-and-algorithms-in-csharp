@@ -2,8 +2,6 @@
 
 This repository is for the students of my online course. It contains the source code of all the programs used in the course. Students can explore our book [Comprehensive Data Structures and Algorithms in C#](https://www.amazon.in/dp/B0G5X17RKL) in detail for understanding all concepts and implementation.
 
-[![comprehensive-data-structures-algorithms-csharp](https://github.com/user-attachments/assets/af226138-dbaa-4973-907e-cf5216211fe2)](https://www.amazon.in/dp/B0G5X17RKL)
-
 ### About the Course
  * Instructor - Deepali Srivastava, Author of [Ultimate Python Programming](https://www.amazon.in/Ultimate-Python-Programming-programs-questions/dp/935551655X)
  * Thoroughly detailed course with complete working programs
@@ -19,6 +17,10 @@ This repository is for the students of my online course. It contains the source 
 [![data-structures-algorithms-python](https://user-images.githubusercontent.com/96913690/200234827-86aec10a-bfab-4371-91fc-e2be855ff1ff.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-python-masterclass?coupon=GITHUB50)
 [![data-structures-algorithms-java](https://user-images.githubusercontent.com/96913690/200234744-14a5ed97-085f-44f3-9298-979c2053c580.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-java-masterclass?coupon=GITHUB50)
 [![data-structures-algorithms-c](https://user-images.githubusercontent.com/96913690/200234592-25d33957-0e9e-4cc0-b324-2a73325aca85.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-c-masterclass?coupon=GITHUB50)
+
+### Recommended Book
+
+[![comprehensive-data-structures-algorithms-csharp](https://github.com/user-attachments/assets/af226138-dbaa-4973-907e-cf5216211fe2)](https://www.amazon.in/dp/B0G5X17RKL)
 
 <!---
 
